@@ -1,0 +1,48 @@
+div{
+    font-family: -apple-system, "PingFang SC", "\5FAE\8F6F\96C5\9ED1", "\534E\6587\7EC6\9ED1", "Helvetica Neue", Arial, "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    word-break: break-all;
+    word-wrap: break-word;
+    vertical-align: baseline;
+}
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+a, abbr, acronym, address, applet, b, big, blockquote, body, button, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, html, i, iframe, img, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, tt, u, ul, var {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 12px;
+    color: #666;
+    vertical-align: baseline;
+    background: 0 0;
+    font-family: -apple-system,"PingFang SC","微软雅黑","华文细黑","Helvetica Neue",Arial,"lucida grande","lucida sans unicode",lucida,helvetica,"Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;
+}
+a, abbr, acronym, address, applet, b, big, blockquote, body, button, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, html, i, iframe, img, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, tt, u, ul, var {
+    font-size: 12px;
+    color: rgb(102, 102, 102);
+    vertical-align: baseline;
+    font-family: -apple-system, "PingFang SC", 微软雅黑, 华文细黑, "Helvetica Neue", Arial, "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    margin: 0px;
+    padding: 0px;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    outline: 0px;
+    background: 0px 0px;
+}
+ul{
+    display: inline;
+}
+ul li {
+    list-style-type: none;
+    list-style-position: outside;
+}
+

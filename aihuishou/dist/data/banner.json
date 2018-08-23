@@ -1,0 +1,29 @@
+{
+    "list" : [
+        {
+            "name":"手机",
+            "class":"phone",
+            "address":"/shouji"
+        },
+        {
+            "name":"平板电脑",
+            "class":"tablet",
+            "address":"/shouji"
+        },
+        {
+            "name":"笔记本",
+            "class":"notebook",
+            "address":"/shouji"
+        },
+        {
+            "name":"摄影摄像",
+            "class":"camera",
+            "address":"/shouji"
+        },
+        {
+            "name":"智能数码",
+            "class":"youxiji",
+            "address":"/shouji"
+        }
+    ]
+}

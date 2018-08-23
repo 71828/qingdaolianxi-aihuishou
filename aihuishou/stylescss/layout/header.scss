@@ -1,0 +1,350 @@
+#header {
+    height: 168px;
+}
+
+#header {
+    background-color: #fff;
+}
+
+#header .navbar {
+    background: #f4f4f4;
+    height: 34px;
+    line-height: 34px;
+}
+
+#header .navbar .navbar-content {
+    width: 1190px;
+    margin: 0 auto;
+}
+
+#header .navbar .navbar-content:after {
+    display: block;
+    clear: both;
+    width: 0;
+    height: 0;
+    visibility: hidden;
+    overflow: hidden;
+    content: "";
+}
+
+#header .navbar .navbar-content .nav-right {
+    float: right;
+    line-height: 0;
+}
+
+#header .navbar .navbar-content .nav-right li {
+    position: relative;
+    height: 34px;
+    float: left;
+    padding: 0 10px;
+    line-height: 34px;
+}
+
+#header .navbar .navbar-content .nav-right li:after {
+    content: '';
+    display: block;
+    height: 20px;
+    width: 0;
+    color: red;
+    position: absolute;
+    bottom: 7px;
+    right: 0;
+    border-left: solid 1px #e3e3e3;
+}
+
+#header .navbar .navbar-content .nav-right li.ordercenter {
+    border-left: solid 1px #f4f4f4;
+    border-right: solid 1px #f4f4f4;
+}
+
+#header .navbar .navbar-content .nav-right li.ordercenter i {
+    content: '';
+    width: 12px;
+    height: 14px;
+    margin-left: 4px;
+    background: url(../images/icon_index.png);
+    background-size: 565px 1053px;
+    background-position: -16px -9px;
+    display: inline-block;
+    position: relative;
+    top: 2px;
+    padding-right: 5px;
+}
+
+#header .navbar .navbar-content .nav-right li.recyclecart {
+    box-sizing: border-box;
+    position: relative;
+    border-left: solid 1px #f4f4f4;
+    border-right: solid 1px #f4f4f4;
+}
+
+#header .navbar .navbar-content .nav-right li.recyclecart i.icon-cart {
+    content: '';
+    width: 14px;
+    height: 14px;
+    margin-left: 4px;
+    background: url(../images/icon_index.png);
+    background-size: 565px 1053px;
+    background-position: -48px -9px;
+    display: inline-block;
+    position: relative;
+    top: 3px;
+    padding-left: 10px;
+}
+
+#header .navbar .navbar-content .nav-right li i.icon-dropdown {
+    content: '';
+    width: 14px;
+    height: 14px;
+    margin-left: 4px;
+    background: url(../images/icon_index.png);
+    background-size: 565px 1053px;
+    background-position: -18px -40px;
+    display: inline-block;
+    position: relative;
+    top: 6px;
+    padding-left: 10px;
+}
+
+#header .navbar .navbar-content .nav-right li.sitemap {
+    border-left: solid 1px #f4f4f4;
+    border-right: solid 1px #f4f4f4;
+}
+
+#header .navbar .navbar-content .nav-right .highlight {
+    color: #fc6232;
+}
+
+#header .navbar .navbar-content a {
+    color: inherit;
+}
+
+#header .top-area {
+    background: #fff;
+    height: 134px;
+}
+
+#header .top-area .search {
+    padding-top: 18px;
+    width: 1190px;
+    margin: 0 auto;
+    position: relative;
+}
+
+#header .top-area .logo-link {
+    margin-right: 37px;
+}
+
+#header .top-area .search .icon-logo {
+    width: 170px;
+    height: 48px;
+    display: inline-block;
+    margin-top: 9px;
+    background: url(../images/ahs-logo.png) no-repeat 0 0;
+}
+
+#header .top-area .search .backup {
+    display: inline-block;
+}
+
+#header .top-area .search .searchbox {
+    position: absolute;
+    top: 25px;
+    right: 0;
+}
+
+#header .top-area .search .searchbox input[placeholder] {
+    color: #8e8e8e;
+}
+
+#header .top-area .search .searchbox input {
+    height: 46px;
+    line-height: 46px;
+    width: 250px;
+    color: #333;
+    border: solid 1px #fcdb00;
+    padding: 0 10px;
+    float: left;
+    font-family: 'Microsoft Yahei';
+}
+
+#header .top-area .search .searchbox #btnSearchKeyWords {
+    width: 56px;
+    height: 46px;
+    border: solid 1px #fcdb00;
+    border-left: none;
+    background: url(../images/icon_index.png?v=3);
+    background-size: 565px 1053px;
+    background-position: -2px -55px;
+    display: inline-block;
+    background-color: #fcdb00;
+}
+
+#header.fixedTop .top-area .nav-projects {
+    border-bottom: none;
+    position: absolute;
+    top: 0;
+    margin-left: -369px;
+    height: 80px;
+    line-height: 80px;
+    left: 50%;
+    margin-top: 0;
+}
+
+#header .top-area .nav-projects {
+    border-bottom: solid 1px #fcdb00;
+    margin-top: 15px;
+    height: 40px;
+}
+
+#header.fixedTop .top-area .nav-projects .tab-menu {
+    width: 670px;
+}
+
+#header .top-area .nav-projects .tab-menu {
+    width: 1190px;
+    margin: 0 auto;
+    position: relative;
+}
+#header .top-area .nav-projects .tab-menu ul {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+}
+#header .top-area .nav-projects .tab-menu ul:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+.clearfix:after {
+    display: block;
+    clear: both;
+    width: 0;
+    height: 0;
+    visibility: hidden;
+    overflow: hidden;
+    content: "";
+}
+#header .top-area .nav-projects .tab-menu ul li {
+    display: inline-block;
+}
+#header .top-area .nav-projects .tab-menu ul li a {
+    display: inline-block;
+    width: 150px;
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+    position: relative;
+}
+#header .top-area .nav-projects .tab-menu ul li .special {
+    position: relative;
+}
+#header .top-area .nav-projects .tab-menu ul li:nth-child(2) a {
+    width: 120px;
+}
+#header .top-area .nav-projects .tab-menu ul li .special .tip {
+    background-image: linear-gradient(-270deg,#ff6830 0,#ff4949 100%);
+    border-radius: 2px 2px 2px 0;
+    position: absolute;
+    top: -18px;
+    right: -7px;
+    font-size: 12px;
+    color: #fff;
+    letter-spacing: 0;
+    line-height: 16px;
+    padding: 2px 4px;
+}
+#header .top-area .nav-projects .tab-menu ul li.erCode:hover .special {
+    font-weight: 700;
+}
+#header .top-area .nav-projects .tab-menu ul li .special .tip:before {
+    content: '';
+    position: absolute;
+    top: 18px;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-right: solid 7px transparent;
+    border-top: solid 7px #ff6830;
+}
+#header .top-area .nav-projects .tab-menu ul li .special .tip.gujia {
+    right: 32px;
+}
+#header .top-area .nav-projects .tab-menu ul li .special .jiantou.jiantou2 {
+    right: 30px;
+}
+#header .top-area .nav-projects .tab-menu ul li .special .jiantou {
+    position: absolute;
+    top: 50%;
+    margin-top: -7px;
+    right: -10px;
+    width: 14px;
+    height: 14px;
+    background: url(../images/icon_xianglajiantou_down.png) no-repeat;
+    background-size: 100% 100%;
+}
+
+#header .top-area .nav-projects .tab-menu ul li .activemenu {
+    background: #fcdb00;
+    width: 211px;
+    margin-top: -1px;
+}
+#header .top-area .nav-projects .tab-menu ul li.erCode {
+    width: 154px;
+    height: 42px;
+    text-align: center;
+    position: relative;
+}
+#header .top-area .nav-projects .tab-menu ul li.erCode .ahsCont {
+    display: none;
+    position: absolute;
+    top: 40px;
+    left: 0;
+    width: 154px;
+    height: 148px;
+    background: #fff;
+    border: 1px solid #dedede;
+    padding: 12px 0;
+    box-sizing: border-box;
+    z-index: 100;
+}
+
+#header .top-area .nav-projects .tab-menu ul li.erCode:hover .ahsCont{
+    display: block;
+}
+#header .top-area .nav-projects .tab-menu ul li.erCode .ahsCont img {
+    width: 80px;
+    height: 80px;
+    margin: auto;
+}
+#header .top-area .nav-projects .tab-menu ul li.erCode .ahsCont p {
+    font-size: 14px;
+    color: #333;
+    text-align: center;
+    line-height: 18px;
+    margin-top: -4px;
+}
+#header .top-area .nav-projects .tab-menu ul li.erCode .ahsCont p span {
+    font-size: 14px;
+    color: #ff6d1a;
+    font-weight: 700;
+}
+#header .top-area .nav-projects .tab-menu ul li.welfare {
+    margin-left: -10px;
+}
+#header .top-area .nav-projects .tab-menu ul li.welfare:hover a i{
+    display: block;
+}
+#header .top-area .nav-projects .tab-menu ul li:nth-child(4) a, #header .top-area .nav-projects .tab-menu ul li:nth-child(5) a, #header .top-area .nav-projects .tab-menu ul li:nth-child(6) a, #header .top-area .nav-projects .tab-menu ul li:nth-child(7) a, #header .top-area .nav-projects .tab-menu ul li:nth-child(8) a {
+    color: #666;
+}
+#header .top-area .nav-projects .tab-menu ul li a i {
+    position: absolute;
+    bottom: 0;
+    width: 70px;
+    height: 2px;
+    left: 65px;
+    margin-left: -25px;
+    background: #fcdb00;
+    display: none;
+}

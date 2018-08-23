@@ -1,0 +1,164 @@
+#section-banner {
+    width: 100%;
+    position: relative;
+    height: 356px;
+    background: #99f;
+}
+#section-banner #category-pop {
+    z-index: 2;
+    position: absolute;
+    width: 212px;
+    left: 50%;
+    margin-left: -595px;
+    top: 0;
+}
+#section-banner #category-pop>ul {
+    display: block;
+    background: #464646;
+    background: rgba(68,68,68,.9);
+    height: 356px;
+    width: 212px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+}
+#section-banner #category-pop>ul li {
+    cursor: pointer;
+    float: initial;
+    height: 59px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+#section-banner #category-pop>ul li:hover dl {
+    border-bottom: none;
+    padding-left: 20px;
+    background: #fff;
+}
+
+#section-banner #category-pop>ul dl {
+    transition: padding .15s ease-in-out;
+    line-height: initial;
+    height: 42px;
+    line-height: 42px;
+    padding: 0 14px;
+    margin: 8px 0 9px 0;
+}
+#section-banner #category-pop>ul dl dt {
+    margin-bottom: 10px;
+    position: relative;
+}
+#section-banner #category-pop>ul dl dt a {
+    vertical-align: middle;
+    font-size: 16px;
+    color: #fff;
+}
+#section-banner #category-pop>ul li dt:before {
+    margin: 0 10px 0 0;
+    vertical-align: middle;
+    display: inline-block;
+    width: 21px;
+    height: 19px;
+    margin-left: 4px;
+    content: '';
+    position: relative;
+    margin-left: 8px;
+}
+#section-banner #category-pop>ul li.phone dt:before { 
+    background: url(../images/icon-jiadian.png) no-repeat 0 -1px;
+}
+#section-banner #category-pop>ul li:hover.phone dt:before  {
+    background: url(../images/icon-jiadian.png) no-repeat 0 -29px;
+}
+#section-banner #category-pop>ul li.tablet dt:before { 
+    background: url(../images/icon-jiadian.png) no-repeat -21px -1px;
+}
+#section-banner #category-pop>ul li:hover.tablet dt:before  {
+    background: url(../images/icon-jiadian.png) no-repeat -21px -29px;
+}
+#section-banner #category-pop>ul li.notebook dt:before { 
+    background: url(../images/icon-jiadian.png) no-repeat -43px -2px;
+}
+#section-banner #category-pop>ul li:hover.notebook dt:before  {
+    background: url(../images/icon-jiadian.png) no-repeat -43px -29px;
+}
+#section-banner #category-pop>ul li.camera dt:before { 
+    background: url(../images/icon-jiadian.png) no-repeat -68px -2px;
+}
+#section-banner #category-pop>ul li:hover.camera dt:before  {
+    background: url(../images/icon-jiadian.png) no-repeat  -68px -29px;
+}
+
+#section-banner #category-pop>ul li.youxiji dt:before { 
+    background: url(../images/icon-jiadian.png) no-repeat -95px -2px;
+}
+#section-banner #category-pop>ul li:hover.youxiji dt:before  {
+    background: url(../images/icon-jiadian.png) no-repeat -95px -29px;
+}
+
+
+
+
+#section-banner #category-pop>ul li:hover dt:after {
+    content: '';
+    width: 10px;
+    height: 15px;
+    margin-left: 4px;
+    background: url(../images/icon_index.png);
+    background-size: 565px 1053px;
+    background-position: -97px -35px;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 11px;
+}
+#section-banner #category-pop>ul li:hover dt a {
+    color: #3782ff;
+}
+
+
+#section-banner #category-pop #more-category-pop {
+    border: solid 1px #e3e3e3;
+    border-left: none;
+    border-top: none;
+    display: block;
+    position: absolute;
+    z-index: 1000;
+    left: 212px;
+    top: 0;
+    width: 590px;
+    background: #fff;
+    padding: 10px 20px 20px 20px;
+    box-shadow: 0 0 3px rgba(0,0,0,.3);
+}
+#section-banner #category-pop #more-category-pop .category-panel {
+    min-height: 356px;
+}
+#section-banner #category-pop #more-category-pop .category-panel .brand-item {
+    border-bottom: dotted 1px #f2f2f2;
+    overflow: hidden;
+}
+#section-banner #category-pop #more-category-pop .category-panel .brand-item>a, #section-banner #category-pop #more-category-pop .category-panel .brand-item>span {
+    width: 80px;
+    font-size: 12px;
+    color: #000;
+    font-family: "Microsoft YaHei";
+}
+#section-banner #category-pop #more-category-pop .category-panel .brand-item ul {
+    display: block;
+    width: 460px;
+    height: 55px;
+    float: left;
+}
+#section-banner #category-pop #more-category-pop .category-panel .brand-item a, #section-banner #category-pop #more-category-pop .category-panel .brand-item li, #section-banner #category-pop #more-category-pop .category-panel .brand-item span {
+    
+    height: 55px;
+    line-height: 55px;
+    float: left;
+    background: #fff;
+}
+#section-banner #category-pop #more-category-pop .category-panel .brand-item ul li {
+    padding-right: 20px;
+}
+#section-banner #category-pop #more-category-pop .category-panel .brand-item a.more {
+    width: 50px;
+    color: #b0b0b0;
+}
