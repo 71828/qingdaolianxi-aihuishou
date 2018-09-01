@@ -1,0 +1,129 @@
+[{
+        "name": "shouji",
+        "page": [{
+                "name": "苹果",
+                "model": [
+                    "苹果 iPhone X",
+                    "苹果 iPhone 8 Plus",
+                    "苹果 iPhone 8",
+                    "苹果 iPhone 7 Plus",
+                    "苹果 iPhone 7手机回收"
+                ]
+            },
+            {
+                "name": "三星",
+                "model": [
+                    "三星 Galaxy S7 edge",
+                    "三星 Galaxy S8+",
+                    "三星 Galaxy S8",
+                    "三星 Galaxy Note 3",
+                    "三星 Galaxy Note 5"
+                ]
+            },
+            {
+                "name": "小米",
+                "model": [
+                    "小米手机 6",
+                    "小米手机 5",
+                    "红米Note 4",
+                    "小米手机5S",
+                    "小米MIX"
+                ]
+            },
+            {
+                "name": "华为",
+                "model": [
+                    "华为 Mate",
+                    "华为 P9",
+                    "华为 P10",
+                    "华为 P10 Plus",
+                    "华为 Mate8"
+                ]
+            },
+            {
+                "name": "荣耀",
+                "model": [
+                    "苹果 iPhone X",
+                    "苹果 iPhone 8 Plus",
+                    "苹果 iPhone 8",
+                    "苹果 iPhone 7 Plus",
+                    "苹果 iPhone 7手机回收"
+                ]
+            },
+            {
+                "name": "魅族",
+                "model": [
+                    "魅族 魅族 魅蓝 Note 3",
+                    "魅族 魅蓝 Note 5",
+                    "魅族 魅蓝 Note 2",
+                    "魅族 PRO6 Plus",
+                    "苹果 iPhone 7手机回收"
+                ]
+            }
+        ]
+    },
+    {
+        "page": [{
+                "name": "苹果2",
+                "model": [
+                    "荣耀 8",
+                    "荣耀 9",
+                    "荣耀 v9",
+                    "荣耀8 青春版",
+                    "荣耀 畅玩6X"
+                ]
+            },
+            {
+                "name": "三星2",
+                "model": [
+                    "苹果 iPhone X",
+                    "苹果 iPhone 8 Plus",
+                    "苹果 iPhone 8",
+                    "苹果 iPhone 7 Plus",
+                    "苹果 iPhone 7手机回收"
+                ]
+            },
+            {
+                "name": "小米2",
+                "model": [
+                    "苹果 iPhone X",
+                    "苹果 iPhone 8 Plus",
+                    "苹果 iPhone 8",
+                    "苹果 iPhone 7 Plus",
+                    "苹果 iPhone 7手机回收"
+                ]
+            },
+            {
+                "name": "华为2",
+                "model": [
+                    "苹果 iPhone X",
+                    "苹果 iPhone 8 Plus",
+                    "苹果 iPhone 8",
+                    "苹果 iPhone 7 Plus",
+                    "苹果 iPhone 7手机回收"
+                ]
+            },
+            {
+                "name": "荣耀2",
+                "model": [
+                    "苹果 iPhone X",
+                    "苹果 iPhone 8 Plus",
+                    "苹果 iPhone 8",
+                    "苹果 iPhone 7 Plus",
+                    "苹果 iPhone 7手机回收"
+                ]
+            },
+            {
+                "name": "魅族2",
+                "model": [
+                    "苹果 iPhone X",
+                    "苹果 iPhone 8 Plus",
+                    "苹果 iPhone 8",
+                    "苹果 iPhone 7 Plus",
+                    "苹果 iPhone 7手机回收"
+                ]
+            }
+        ]
+
+    }
+]

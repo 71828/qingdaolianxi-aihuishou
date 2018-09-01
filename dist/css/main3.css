@@ -1,0 +1,181 @@
+.cart {
+    min-height: 520px !important;
+}
+.cart-container {
+    background: #f5f5f5;
+    min-height: 520px;
+    box-sizing: border-box;
+    padding: 68px 0 96px 0;
+}
+.cart-wrap {
+    width: 1184px;
+    margin: 0 auto;
+}
+.cart-wrap table {
+    background: #fff;
+    width: 100%;
+    border-spacing: 0;
+    border-collapse: collapse;
+    box-sizing: border-box;
+}
+.cart-wrap .cart-toolbar {
+    width: 1184px;
+    background: #fff;
+    margin-top: 24px;
+    height: 56px;
+    line-height: 56px;
+}
+.cart-wrap .cart-toolbar.fixed {
+    z-index: 999;
+    position: fixed;
+    bottom: 0;
+    border-top: 1px solid #dedede;
+}
+.cart-wrap table thead tr {
+    height: 64px;
+    line-height: 64px;
+}
+.cart-wrap table thead tr th {
+    font-size: 14px;
+    font-weight: normal;
+    color: #333;
+    border-bottom: 1px solid #eeeeee;
+}
+.cart-wrap table thead tr th:first-child {
+    width: 184px;
+}
+.cart-wrap .checkbox {
+    position: relative;
+}
+.cart-wrap table thead tr th .checkbox {
+    padding-left: 55px;
+}
+.cart-wrap .checkbox input {
+    opacity: 0;
+}
+.cart-wrap .checkbox input:checked + i {
+    background-position: 0 -50px;
+}
+
+.cart-wrap .checkbox input:checked + i {
+    background-position: 0 -50px;
+}
+.cart-wrap .checkbox input + i {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+    background: url(../images/cart-icon.png) no-repeat;
+}
+.cart-wrap table thead tr th .checkbox input + i {
+    left: 42px;
+}
+.cart-wrap .checkbox input:disabled + i {
+    cursor: default;
+    background-position: 0 -100px;
+}
+.cart-wrap table thead tr th.product {
+    text-align: left;
+    padding-left: 113px;
+}
+.cart-wrap table thead tr th:nth-child(3) {
+    text-align: right;
+    padding-right: 135px;
+    width: 200px;
+}
+.cart-wrap table thead tr th:nth-child(4) {
+    text-align: left;
+}
+.cart-wrap table tbody tr.product td {
+    height: 152px;
+    vertical-align: middle;
+    font-size: 16px;
+    color: #333;
+    box-sizing: border-box;
+    background: url(../images/cart-icon2.png) left bottom repeat-x;
+}
+.cart-wrap table tbody tr.product td:first-child {
+    width: 184px;
+    text-align: center;
+    border-bottom-color: transparent;
+    background: url(../images/cart-icon2.png)32px bottom no-repeat;
+}
+
+.cart-wrap table tbody tr.product .info img {
+    float: left;
+    width: 86px;
+    border: 1px solid #f3f3f3;
+    margin-right: 25px;
+}
+.cart-wrap table tbody tr.product td span {
+    font-size: 16px;
+    color: #333;
+}
+.cart-wrap table tbody tr.product .info span {
+    line-height: 88px;
+}
+.cart-wrap table tbody tr.product td:nth-child(3) {
+    text-align: right;
+    padding-right: 135px;
+}
+.cart-wrap table tbody tr.product .price .red {
+    color: #FC6232;
+}
+.cart-wrap .cart-toolbar ul {
+    position: relative;
+}
+.cart-wrap .cart-toolbar ul li {
+    float: left;
+}
+.cart-wrap .cart-toolbar ul li:first-child {
+    width: 184px;
+}
+.cart-wrap .cart-toolbar ul li .checkbox {
+    padding-left: 95px;
+}
+.cart-wrap .cart-toolbar ul li .checkbox input + i {
+    left: 83px;
+}
+.cart-wrap .cart-toolbar ul li.operate a {
+    display: inline-block;
+    font-size: 14px;
+    color: #333;
+    margin-right: 36px;
+}
+.cart-wrap .cart-toolbar ul li:last-child {
+    float: right;
+    position: relative;
+}
+.cart-wrap .cart-toolbar ul li:last-child .price {
+    font-size: 14px;
+    color: #666;
+}
+.cart-wrap .cart-toolbar ul li:last-child button {
+    float: right;
+    width: 259px;
+    height: 56px;
+    line-height: 56px;
+    background: #FCDB00;
+    color: #333;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 24px;
+}
+.cart-wrap .cart-toolbar ul li:last-child button.disabled {
+    background: #e6e6e6;
+    cursor: not-allowed;
+    color: #999;
+}
+.cart-wrap .cart-toolbar ul li:last-child .price b {
+    font-weight: normal;
+    color: #FC6232;
+}
+.cart-wrap .cart-toolbar ul li:last-child .price strong {
+    font-size: 24px;
+    color: #FC6232;
+    font-weight: normal;
+}

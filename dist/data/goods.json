@@ -1,0 +1,290 @@
+[{
+        "categories": "phone",
+        "name": "手机",
+        "lists": [{
+                "brand": "iphone",
+                "img": "images/636554356042658700177557392.png",
+                "list": [{
+                    "id": "1",
+                    "name": "苹果 iPhone X",
+                    "img": "images/goods/1.jpg",
+                    "price": "6525"
+                }, {
+                    "id": "2",
+                    "name": "苹果 iPhone 8 Plus",
+                    "img": "images/goods/2.jpg",
+                    "price": "5270"
+                }, {
+                    "id": "3",
+                    "name": "苹果 iPhone 8",
+                    "img": "images/goods/3.jpg",
+                    "price": "4340"
+                }, {
+                    "id": "4",
+                    "name": "苹果 iPhone 7 Plus",
+                    "img": "images/goods/4.jpg",
+                    "price": "4275"
+                }, {
+                    "id": "5",
+                    "name": "苹果 iPhone 7",
+                    "img": "images/goods/5.jpg",
+                    "price": "3255"
+                }, {
+                    "id": "6",
+                    "name": "苹果 iPhone 6S Plus",
+                    "img": "images/goods/6.jpg",
+                    "price": "2700"
+                }, {
+                    "id": "7",
+                    "name": "苹果 iPhone 8",
+                    "img": "images/goods/7.jpg",
+                    "price": "1655"
+                }, {
+                    "id": "8",
+                    "name": "苹果 iPhone 7 Plus",
+                    "img": "images/goods/8.jpg",
+                    "price": "6525"
+                }, {
+                    "id": "9",
+                    "name": "苹果 iPhone 7",
+                    "img": "images/goods/9.jpg",
+                    "price": "6525"
+                }, {
+                    "id": "10",
+                    "name": "苹果 iPhone 6S Plus",
+                    "img": "images/goods/10.jpg",
+                    "price": "6525"
+                }, {
+                    "id": "11",
+                    "name": "苹果 iPhone 8",
+                    "img": "images/goods/11.jpg",
+                    "price": "6525"
+                }, {
+                    "id": "12",
+                    "name": "苹果 iPhone 7 Plus",
+                    "img": "images/goods/12.jpg",
+                    "price": "6525"
+                }, {
+                    "id": "13",
+                    "name": "苹果 iPhone 7",
+                    "img": "images/goods/13.jpg",
+                    "price": "6525"
+                }, {
+                    "id": "14",
+                    "name": "苹果 iPhone 6S Plus",
+                    "img": "images/goods/14.jpg",
+                    "price": "6525"
+                }, {
+                    "id": "15",
+                    "name": "苹果 iPhone 8",
+                    "img": "images/goods/15.jpg",
+                    "price": "6525"
+                }, {
+                    "id": "16",
+                    "name": "苹果 iPhone 7 Plus",
+                    "img": "images/goods/16.jpg",
+                    "price": "6525"
+                }, {
+                    "id": "17",
+                    "name": "苹果 iPhone 7",
+                    "img": "images/goods/17.jpg",
+                    "price": "6525"
+                }]
+            },
+            {
+                "brand": "snmsung",
+                "img": "images/6365543561901770801855937043.png",
+                "list": [{
+                    "id": "19",
+                    "name": "三星 Galaxy S7 edge",
+                    "img": "images/goods/9.jpg",
+                    "price": "6525"
+                }, {
+                    "id": "20",
+                    "name": "三星 Galaxy S8+",
+                    "img": "images/goods/1.jpg",
+                    "price": "6525"
+                }, {
+                    "id": "21",
+                    "name": "三星 Galaxy S8",
+                    "img": "images/goods/1.jpg",
+                    "price": "6525"
+                }, {
+                    "id": "22",
+                    "name": "三星 Galaxy S7 edge",
+                    "img": "images/goods/1.jpg",
+                    "price": "6525"
+                }, {
+                    "id": "23",
+                    "name": "三星 Galaxy S7 edge",
+                    "img": "images/goods/1.jpg",
+                    "price": "6525"
+                }]
+            },
+            {
+                "brand": "xiaomi",
+                "img": "images/636555225940572780327500819.png",
+                "list": [{
+                    "id": "20",
+                    "name": "三星 Galaxy S8+",
+                    "img": "images/goods/1.jpg",
+                    "price": "6525"
+                }]
+            },
+            {
+                "brand": "huawei",
+                "img": "images/6365552425683138301793639598.png",
+                "list": [{
+                    "id": "20",
+                    "name": "三星 Galaxy S8+",
+                    "img": "images/goods/1.jpg",
+                    "price": "6525"
+                }]
+            },
+            {
+                "brand": "iphone",
+                "img": "images/6365552421474824301314348180.png",
+                "list": [{
+                    "id": "20",
+                    "name": "三星 Galaxy S8+",
+                    "img": "images/goods/1.jpg",
+                    "price": "6525"
+                }]
+            },
+            {
+                "brand": "iphone",
+                "img": "images/636554356042658700177557392.png",
+                "list": [{
+                    "id": "20",
+                    "name": "三星 Galaxy S8+",
+                    "img": "images/goods/1.jpg",
+                    "price": "6525"
+                }]
+            },
+            {
+                "brand": "iphone",
+                "img": "images/636554356042658700177557392.png",
+                "list": [{
+                    "id": "20",
+                    "name": "三星 Galaxy S8+",
+                    "img": "images/goods/1.jpg",
+                    "price": "6525"
+                }]
+            }
+        ]
+    },
+    {
+        "categories": "notebook",
+        
+        "name": "笔记本",
+        "lists": [{
+            "brand": "iphone",
+            "img": "images/636554356042658700177557392.png",
+            "list": [{
+                "id": "111241",
+                "name": "苹果 iPhone X",
+                "img": "images/goods/1.jpg",
+                "price": "6525"
+            },
+            {
+                "id": "11142411",
+                "name": "苹果 iPhone X",
+                "img": "images/goods/1.jpg",
+                "price": "6525"
+            },
+            {
+                "id": "112411",
+                "name": "苹果 iPhone X",
+                "img": "images/goods/1.jpg",
+                "price": "6525"
+            }]
+        },
+        {
+            "brand": "iphone",
+            "img": "images/636554356042658700177557392.png",
+            "list": [{
+                "id": "1124111",
+                "name": "苹果 iPhone X",
+                "img": "images/goods/4.jpg",
+                "price": "6525"
+            },
+            {
+                "id": "111424211",
+                "name": "苹果 iPhone X",
+                "img": "images/goods/2.jpg",
+                "price": "6525"
+            },
+            {
+                "id": "111241",
+                "name": "苹果 iPhone X",
+                "img": "images/goods/1.jpg",
+                "price": "6525"
+            }]
+        },
+        {
+            "brand": "iphone",
+            "img": "images/636554356042658700177557392.png",
+            "list": [{
+                "id": "1141",
+                "name": "苹果 iPhone X",
+                "img": "images/goods/1.jpg",
+                "price": "6525"
+            },
+            {
+                "id": "132111",
+                "name": "苹果 iPhone X",
+                "img": "images/goods/2.jpg",
+                "price": "6525"
+            },
+            {
+                "id": "121311",
+                "name": "苹果 iPhone X",
+                "img": "images/goods/1.jpg",
+                "price": "6525"
+            }]
+        }]
+    },
+    {
+        "categories": "table",
+        "img": "images/636554356042658700177557392.png",
+        "name": "平板电脑",
+        "lists": [{
+            "brand": "iphone",
+            "list": [{
+                "id": "1111",
+                "name": "苹果 iPhone X",
+                "img": "images/goods/1.jpg",
+                "price": "6525"
+            }]
+        }]
+    },
+    {
+        "categories": "table",
+        "img": "images/636554356042658700177557392.png",
+        "name": "摄影摄像",
+        "lists": [{
+            "brand": "iphone",
+            "list": [{
+                "id": "1111",
+                "name": "苹果 iPhone X",
+                "img": "images/goods/1.jpg",
+                "price": "6525"
+            }]
+        }]
+    },
+    {
+        "categories": "table",
+        "img": "images/636554356042658700177557392.png",
+        "name": "智能数码",
+        "lists": [{
+            "brand": "iphone",
+            "list": [{
+                "id": "1111",
+                "name": "苹果 iPhone X",
+                "img": "images/goods/1.jpg",
+                "price": "6525"
+            }]
+        }]
+    }
+
+]
